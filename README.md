@@ -43,3 +43,11 @@ The server exposes 46 tools covering:
 - **Journal entries** — list and create general journal entries
 - **Transactions** — list transactions
 - **Time tracking** — entries, activities, users, and invoice generation from time entries
+
+## Fiken API usage
+
+This project is an unofficial wrapper and is not affiliated with Fiken. You need your own Fiken API key to use it — generate one at <https://app.fiken.no/user/api-tokens>. Usage of the Fiken API is subject to [Fiken's end-user agreement](https://fiken.no/sluttbrukeravtale).
+
+## License
+
+[MIT](LICENSE)
